@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/gameslisting/static/js/main.88e2e013.chunk.js",
+    "main.js.map": "/gameslisting/static/js/main.88e2e013.chunk.js.map",
+    "runtime-main.js": "/gameslisting/static/js/runtime-main.67f79eb6.js",
+    "runtime-main.js.map": "/gameslisting/static/js/runtime-main.67f79eb6.js.map",
+    "static/js/2.7dfe8201.chunk.js": "/gameslisting/static/js/2.7dfe8201.chunk.js",
+    "static/js/2.7dfe8201.chunk.js.map": "/gameslisting/static/js/2.7dfe8201.chunk.js.map",
+    "static/js/3.e79f25f2.chunk.js": "/gameslisting/static/js/3.e79f25f2.chunk.js",
+    "static/js/3.e79f25f2.chunk.js.map": "/gameslisting/static/js/3.e79f25f2.chunk.js.map",
+    "index.html": "/gameslisting/index.html",
+    "static/js/2.7dfe8201.chunk.js.LICENSE.txt": "/gameslisting/static/js/2.7dfe8201.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/gameslisting/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/gameslisting/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/gameslisting/static/media/logo.9b6b8655.svg",
+    "static/media/playstation.18cc4b9c.svg": "/gameslisting/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/gameslisting/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/gameslisting/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f79eb6.js",
+    "static/js/2.7dfe8201.chunk.js",
+    "static/js/main.88e2e013.chunk.js"
+  ]
+}
